@@ -26,8 +26,16 @@ Video-4-->
 .button implementation means example
 
 Video-5-->
-.
-.
+.Anchor tag er details explanantion
+.Anchor tag kivabe lekte hoi
+.file and external website connect inside href
+
+Video-5-->
+.Anchor tag er details explanantion
+.Anchor tag kivabe lekte hoi
+.file and external website connect inside href
+.target diaa new tab e open kora jai jekono file/website ke.
+
 
 
 
