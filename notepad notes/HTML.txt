@@ -49,6 +49,9 @@ Video-7-->
 .value kivabe dei input e oita janlam,jei value ta select korar por send hoi.
 .Akta normal login form make kora shiklam
 
+Video-8-->
+.Html e full structure er deep understanding korte parchi example er sathe sathe
+
 
 
 
