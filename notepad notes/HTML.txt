@@ -1,0 +1,31 @@
+HTML:
+
+Video-1-->
+
+.html er file towri kora vs code
+.save kore browser e dekhano
+.html mane ki
+
+Video-2-->
+
+.paragraph tag
+.semantic and nonsemantic difference
+.bold,strong,italic and em tag explanation
+
+
+Video-3-->
+
+.heading tag(H1-H6);importance er jonno use kora hoi shudu text size er jonno na
+.inline and block element difference
+.examples of inline elements
+
+Video-4-->
+
+.list tag:ol,ul,nested for both inside li,type of ordered list,basic difference between normal li and ol/ul defined li
+.br examples
+.button implementation means example
+
+
+
+
+
