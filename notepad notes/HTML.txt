@@ -41,6 +41,14 @@ Video-6-->
 .image tag lekhar formate
 .image tag e 3 vabe image set kora jei tar example and alternative way
 
+Video-7-->
+.user theke input newar way janlam
+.onk dhoroner input type use kora siklam
+.input type submit and button er example dekhlam
+.select and option use kora sikhlam
+.value kivabe dei input e oita janlam,jei value ta select korar por send hoi.
+.Akta normal login form make kora shiklam
+
 
 
 
