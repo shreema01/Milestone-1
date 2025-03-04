@@ -1,0 +1,11 @@
+Video-1:
+.Basic revision of html
+.basic layer of webpage;content layer(Html)
+.basic idea of css;;full meaning of css
+.css rules(selector {property:property value})
+.types of css;internal/embedded,external,inline
+
+Video-2:
+.css er inline and inline kivabe use kore 
+.css er style lekhar rules sikchi
+.css er measuring unit er idea paisi.fixed and relative both types
