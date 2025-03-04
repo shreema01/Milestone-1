@@ -9,3 +9,10 @@ Video-2:
 .css er inline and inline kivabe use kore 
 .css er style lekhar rules sikchi
 .css er measuring unit er idea paisi.fixed and relative both types
+
+Video-3:
+.css er measuring unit er exxample dekhlam
+.id use kore property use korsi css er,such as:color,background-color,font-size,font-width
+.class use korlam property diaa
+.css selector types(id,class,element,universal,grouping and attribute selector)
+.attribute selector(pore dekhbo)
