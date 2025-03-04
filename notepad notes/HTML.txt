@@ -35,11 +35,13 @@ Video-5-->
 .Anchor tag kivabe lekte hoi
 .file and external website connect inside href
 .target diaa new tab e open kora jai jekono file/website ke.
+.anchor tag ke kivabe downloadable kora jei tar 2 ta way shiksi
 
 Video-6-->
 .image tag er broad explanation 
 .image tag lekhar formate
 .image tag e 3 vabe image set kora jei tar example and alternative way
+
 
 Video-7-->
 .user theke input newar way janlam
