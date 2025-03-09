@@ -18,4 +18,10 @@ Video-3:
 .attribute selector(pore dekhbo)
 
 Video-4:
-.
+.id html id e same nam er aktai thakte pare
+.class ek er besi jaigai bebohar kora jai,ar class ek er besi use kora jei jekono akta element e mane aksathe onkgula class implement hotte pare akta element e.
+.2 ta class e aksathe style use kora jai
+.IMP:comma diaa akadhik selector e style apply kora jai
+.attribute tag use kora sikhsi
+.chotto akta portion ke style korte span use kora hoi
+.boro akta portion ke style korte div use kora hoi
