@@ -31,3 +31,7 @@ Video-5:
 .border-radius use kora sikhsi;kivabe aktu change kora jai oita sikhsi
 .margin by defult theke kivabe 0 kora jai oita bujchi
 .margin ki ki vabe use kora jai oita bujchi
+
+Video-6:
+.padding ki oita deksi(text er vitore je space oita)
+.box-model details
