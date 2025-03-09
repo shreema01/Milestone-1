@@ -25,3 +25,9 @@ Video-4:
 .attribute tag use kora sikhsi
 .chotto akta portion ke style korte span use kora hoi
 .boro akta portion ke style korte div use kora hoi
+
+Video-5:
+.border use korar rules sikhsi;border(4)dik e kivabe dewa jai oita bujchi
+.border-radius use kora sikhsi;kivabe aktu change kora jai oita sikhsi
+.margin by defult theke kivabe 0 kora jai oita bujchi
+.margin ki ki vabe use kora jai oita bujchi
