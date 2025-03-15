@@ -40,5 +40,8 @@ Video-7:
 .external css file use korte parchi and connect korte parci
 .display none and visibility hidden er difference ta bujchi
 .bax shadow ta bujchi margin er sathe
-.display:inkine,block and inline block er modde difference and working ta bujchi
+.display:inline,block and inline block er modde difference and working ta bujchi
+
+Video-8:
+.
 
